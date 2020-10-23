@@ -1,7 +1,9 @@
 ## 一　Welcome to hugeng007 Gitblog
-该博客是利用 GitHub Pages+Jekyll 搭建而成，并参照了Jekyll的开源模板NexT(http://theme-next.simpleyyt.com/getting-started.html#install-next-theme)，
+* 该博客是利用 GitHub Pages+Jekyll 搭建而成，并参照了Jekyll的开源模板NexT(http://theme-next.simpleyyt.com/getting-started.html#install-next-theme)，
 在此非常感谢GitHub Pages这么好用的项目，也感谢为此模板做出贡献的大佬，
-详情欢迎访问我的Gitblog：http://hugeng007.cn
+
+* 详情欢迎访问我的Gitblog：https://geng007.github.io
+
 
 ---
 ## 二　如果你对此感兴趣
