@@ -5,7 +5,8 @@
 
 ---
 ## 二　如果你对此感兴趣
-那么你只需几个步骤就可以搭建基于GitHub Pages的个人博客网站；
+
+- 那么你只需几个步骤就可以搭建基于GitHub Pages的个人博客网站；
 
 ### 1. Fork该项目，将在你仓库的该项目取名为 “你的用户名.github.io”(setting那改)，
 * 此时在setting的GitHub Pages那一栏就已经生成你的个人博客网站了，只不过样式是我的；
@@ -19,12 +20,12 @@
 ### 3. 修改_config.yml、README.md和_posts；（具体操作访问上面Jekyll的开源模板NexT网址）
 ### 4. 最后一步，将该项目git push到你的项目
 
-#### 补充：对于git的基本操作如果不熟悉可以看看我在知乎的一篇文章——Git入门操作（https://www.zhihu.com/people/Jackpon/posts ）我的Gitblog上也有；
-### 也可以在知乎私信给我，尽我所能帮助 *_*!
+* 补充：对于git的基本操作如果不熟悉可以看看我在知乎的一篇文章——Git入门操作（https://www.zhihu.com/people/Jackpon/posts )
 
 ---
 ## 三　新添加了页面LeetCode：
-    该页面文档是采用mkdocs编译生成的，使用很简单，你只需几个命令就可以
-    生成自己的静态文件，具有搜索功能，具体操作见官网。
+    
+* 该页面文档是采用mkdocs编译生成的，使用很简单，你只需几个命令就可以
+* 生成自己的静态文件，具有搜索功能，具体操作见官网。
 
-###    MkDocs 中文文档（ http://markdown-docs-zh.readthedocs.io/zh_CN/latest/ ）
+* MkDocs 中文文档（ http://markdown-docs-zh.readthedocs.io/zh_CN/latest/ ）
