@@ -84,6 +84,6 @@ cheers:
 keep_on: 继续努力。
 
 symbol:
-  comma: '， '
-  period: '。 '
-  colon: '：'
+  comma: "， "
+  period: "。 "
+  colon: "："
