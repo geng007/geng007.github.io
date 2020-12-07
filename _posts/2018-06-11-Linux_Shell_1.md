@@ -1,3 +1,6 @@
+[TOC]
+
+
 ---
 title: 第一章 小试牛刀
 categories: 
